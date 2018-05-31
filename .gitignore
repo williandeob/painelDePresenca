@@ -1,0 +1,8 @@
+#Ignorar dependencias carregas pelo npm
+/node_modules
+
+#Ignorar diretorios de gerenciamento de IDEs
+/.idea
+
+#Ignorar arquivos
+package-lock.json

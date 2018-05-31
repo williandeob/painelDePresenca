@@ -1,0 +1,27 @@
+{
+  "name": "paineldepresenca",
+  "version": "1.0.0",
+  "description": "Painel de exibicao dos alunos presentes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williandeob/painelDePresenca.git"
+  },
+  "author": "willian batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williandeob/painelDePresenca/issues"
+  },
+  "homepage": "https://github.com/williandeob/painelDePresenca#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.7",
+    "angular": "^1.7.0",
+    "oclazyload": "^1.1.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
